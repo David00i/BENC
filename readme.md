@@ -6,4 +6,4 @@ tutorial.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Link : https://networkooi.herokuapp.com
-![herokuooi](https://github.com/hanyi00i/heroku-node.js/blob/main/networkooi.png)
+![networkooi](https://github.com/hanyi00i/WebSocket/blob/main/networkooi.png)
